@@ -1,4 +1,4 @@
-# quan-ly-du-an
+
 ## Câu số 1: Vẽ lược đồ thời gian và tìm Te dự án
 hình phía dưới đây mô tả rằng: công việc A để hoàn thành cần 2 tháng, công việc B cần 4 tháng, công việc C cần 4 tháng và điều kiện là phải xong công việc A và B rồi mới sang công việc C, tương tự như vậy . . . D và E  
 
