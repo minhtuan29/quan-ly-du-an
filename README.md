@@ -5,7 +5,7 @@ Câu số 2:
 - cho : A(6), B(5), C(2), D(4, AB), E(4) , F(5, AB)  
 --> tìm các phương án khả thi ưu tiên mà tương ứng với số người tham gia ?  
 Giải:  
-Đầu tiên, từ ABCDEF ta tìm được Tmin(hay còn gọi là Td) = 11
+Đầu tiên, từ ABCDEF ta tìm được Tmin(hay còn gọi là Te) = 11
 ta có:  
 ```
 Tổng Chi Phí = Tiền Công + Tiền Phạt  
