@@ -1,5 +1,7 @@
 # quan-ly-du-an
 ## Câu số 1: 
+mô tả rằng: công việc A để hoàn thành cần 2 tháng, công việc B cần 4 tháng, công việc C cần 4 tháng và điều kiện là phải xong công việc A và B rồi mới sang công việc C, tương tự như vậy . . . D và E  
+
 ![2](https://user-images.githubusercontent.com/86332370/153129594-8e7fc541-681d-4ca3-9151-855d068aa000.PNG)
 ![3](https://user-images.githubusercontent.com/86332370/153129652-e09b4329-8dae-4676-b22e-1b989e4f566a.PNG)
 
