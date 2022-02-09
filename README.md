@@ -1,5 +1,11 @@
 # quan-ly-du-an
-Câu số 2:  
+## Câu số 1: 
+![2](https://user-images.githubusercontent.com/86332370/153129594-8e7fc541-681d-4ca3-9151-855d068aa000.PNG)
+![3](https://user-images.githubusercontent.com/86332370/153129652-e09b4329-8dae-4676-b22e-1b989e4f566a.PNG)
+
+
+
+## Câu số 2:  
 - thù lao mỗi người: 60Usd/tháng  
 - bị phạt mỗi người: 50Usd/tháng nếu chưa hoàn thành trong 10 tháng  
 - cho : A(6), B(5), C(2), D(4, AB), E(4) , F(5, AB)  
