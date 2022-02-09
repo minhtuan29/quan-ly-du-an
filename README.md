@@ -1,13 +1,12 @@
 # quan-ly-du-an
-## Câu số 1: 
+## Câu số 1: Vẽ lược đồ gaintt và tìm Te dự án
 mô tả rằng: công việc A để hoàn thành cần 2 tháng, công việc B cần 4 tháng, công việc C cần 4 tháng và điều kiện là phải xong công việc A và B rồi mới sang công việc C, tương tự như vậy . . . D và E  
 
 ![2](https://user-images.githubusercontent.com/86332370/153129594-8e7fc541-681d-4ca3-9151-855d068aa000.PNG)
 ![3](https://user-images.githubusercontent.com/86332370/153129652-e09b4329-8dae-4676-b22e-1b989e4f566a.PNG)
 
 
-
-## Câu số 2:  
+## Câu số 2: Tìm các phương án khả thi tiền phạt thấp nhất 
 - thù lao mỗi người: 60Usd/tháng  
 - bị phạt mỗi người: 50Usd/tháng nếu chưa hoàn thành trong 10 tháng  
 - cho : A(6), B(5), C(2), D(4, AB), E(4) , F(5, AB)  
@@ -33,4 +32,7 @@ Ta có :
 
 Kết luận: Các phương án khả thi theo thứ tự ưu tiên là :
 - phương án n = 2 : vì T2 >= Tmin và C2 min
-- phương án n = 3 : vì T3 >= Tmin và C1 >= C3 >= C2 
+- phương án n = 3 : vì T3 >= Tmin và C1 >= C3 >= C2  
+
+## Câu số 3: rút ngắn tiến độ dự án
+
